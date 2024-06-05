@@ -1,0 +1,36 @@
+Solution 1:
+1 1 1 2 2 2 3 3 4 4 4 
+1 3 3 3 2 a 3 4 4 4 a 
+1 3 3 1 a 7 3 4 4 4 9 
+1 3 3 a 1 0 0 4 1 1 a 
+1 3 a 1 4 4 a 4 1 8 1 
+1 4 4 4 a 4 4 4 8 8 9 
+7 4 4 4 4 a 7 4 8 8 8 
+7 7 1 4 1 7 7 a 9 8 9 
+7 7 1 1 1 7 7 9 9 9 9 
+a 1 1 4 4 a 7 9 9 9 2 
+4 4 4 4 4 3 a 3 9 9 2 
+
+Detected number: 11122233444
+Detected number: 13332
+Detected number: 3444
+Detected number: 1331
+Detected number: 734449
+Detected number: 133
+Detected number: 100411
+Detected number: 13
+Detected number: 144
+Detected number: 4181
+Detected number: 1444
+Detected number: 444889
+Detected number: 74444
+Detected number: 74888
+Detected number: 7714177
+Detected number: 989
+Detected number: 77111779999
+Detected number: 1144
+Detected number: 79992
+Detected number: 444443
+Detected number: 3992
+88243711283
+Total solutions found: 1
