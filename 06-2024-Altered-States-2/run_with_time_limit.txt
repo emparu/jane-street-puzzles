@@ -1,0 +1,2 @@
+timeout 30s stdbuf -oL ./submission > output.txt 2>&1
+timeout 30s stdbuf -oL ./submission_NOCAL > output_NOCAL.txt 2>&1
